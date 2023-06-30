@@ -6,7 +6,7 @@ def soma(a, b):
     return s
 
 def sub(a, b):
-    s = a - a
+    s = a - b
     return s
 
 #falta incluir mutiplicacao
