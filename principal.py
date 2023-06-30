@@ -10,6 +10,9 @@ def sub(a, b):
     return s
 
 #falta incluir mutiplicacao
+def mul(a, b):
+    return a*b
+
 
 def div(a, b):
     d = a % b
