@@ -19,7 +19,7 @@ def div(a, b):
     return d
 
 def dobro(x):
-    d = 2 + x
+    d = 2*x
     return d
 
 def raiz(n):
