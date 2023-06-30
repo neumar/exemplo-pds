@@ -2,7 +2,7 @@
 import math
 
 def soma(a, b):
-    a = s + b
+    s = a + b
     return s
 
 def sub(a, b):
