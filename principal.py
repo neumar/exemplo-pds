@@ -15,7 +15,7 @@ def mul(a, b):
 
 
 def div(a, b):
-    d = a % b
+    d = a / b
     return d
 
 def dobro(x):
