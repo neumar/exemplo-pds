@@ -1,6 +1,6 @@
 
 import math
-
+#alguma mod
 def soma(a, b):
     a = s + b
     return s
